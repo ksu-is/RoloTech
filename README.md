@@ -13,9 +13,9 @@
 ### The following is a task list for this assignment:
 - [x] Come up with an idea for a project
 - [x] Create a readme to describe all that this project entails
-- [x] Begin creating some code for this project
+- [x] Begin creating some code for this project 
+- [x] Find related repository and compare
 - [ ] Finish creating code for this project
 - [ ] Review code and ensure accuracy
-- [ ] Find related repository and compare
 - [ ] Update code with necessary changes
 - [ ] Upload code to repository or use a clone to begin with
