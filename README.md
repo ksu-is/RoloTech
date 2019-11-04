@@ -16,5 +16,6 @@
 - [x] Begin creating some code for this project
 - [ ] Finish creating code for this project
 - [ ] Review code and ensure accuracy
+- [ ] Find related repository and compare
 - [ ] Update code with necessary changes
 - [ ] Upload code to repository or use a clone to begin with
