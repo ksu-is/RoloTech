@@ -6,10 +6,8 @@
  
 	This was, of course, until the invention of the personal digital assistant (PDA), smartphones, and the internet in the late 90s and the beginning of the 21st century that bulky, inconvenient paperweights like phonebooks and address books were no longer necessary. Technology has brought us several luxuries in day-to-day life, but the elimination of a need to physically write everything down has certainly been one of the greatest benefits of having that technology.
 	
-  Therefore, I’d like to propose an idea for a piece of software that isn’t too complex. It’s quite feasible, even for just one person. Because this project is not necessarily the most difficult, though, it might be interesting to add elements that a typical address book might not have, such as social media usernames, nicknames, and maiden names. The name of this "invention” is “RoloTech.”
+  Therefore, I’d like to propose an idea for a piece of software that isn’t too complex. It’s quite feasible, even for just one person. Because this project is not necessarily the most difficult, though, it might be interesting to add elements that a typical address book might not have, such as social media usernames. The name of this "invention” is “RoloTech.”
   
-*This project requires 2 people if the added elements are to be included*
-
 ### The following is a task list for this assignment:
 - [x] Come up with an idea for a project
 - [x] Create a readme to describe all that this project entails
