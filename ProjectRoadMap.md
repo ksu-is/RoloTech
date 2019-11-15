@@ -1,4 +1,4 @@
-**Objectives:**
+   **Objectives:**
 ### The following is a task list for this assignment:
 #### Week One:
 - [x] Come up with an idea for a project
