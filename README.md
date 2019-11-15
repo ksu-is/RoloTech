@@ -21,4 +21,4 @@
 - [x] Review code and ensure accuracy
 - [ ] Create marketing slide for project
 - [ ] Present project to peers
-- [ ] Update tasks list and code somemore
+- [ ] Update tasks list and code some more
