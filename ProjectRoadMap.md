@@ -9,15 +9,15 @@
   Therefore, I’d like to propose an idea for a piece of software that isn’t too complex. It’s quite feasible, even for just one person. Because this project is not necessarily the most difficult, though, it might be interesting to add elements that a typical address book might not have, such as social media usernames. The name of this "invention” is “RoloTech.”
   
 ### The following is a task list for this assignment:
-	Week One: 
+	#### Week One:
 - [x] Come up with an idea for a project
 - [x] Create a readme to describe all that this project entails
 - [x] Begin creating some code for this project 
 - [x] Find related repository and compare
-	Week Two:
+	#### Week Two:
 - [x] Update code with necessary changes
 - [x] Upload code to repository or use a clone to begin with
-	Week Three:
+	#### Week Three:
 - [x] Finish creating code for this project
 - [x] Review code and ensure accuracy
 - [ ] Create marketing slide for project
