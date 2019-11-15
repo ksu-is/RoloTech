@@ -1,4 +1,4 @@
-### **The following is a task list for this assignment:**
+### The following is a task list for this assignment:
 #### Week One:
 - [x] Come up with an idea for a project
 - [x] Create a readme to describe all that this project entails
