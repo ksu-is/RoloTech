@@ -11,5 +11,5 @@
 - [x] Finish creating code for this project  --  ***Diego Fajardo***
 - [x] Review code and ensure accuracy  --  ***Diego Fajardo***
 - [x] Create marketing slide for project  --  ***Diego Fajardo***
-- [ ] Present project to peers  --  ***Diego Fajardo***
-- [ ] Update tasks list and code some more  --  ***Diego Fajardo***
+- [x] Present project to peers  --  ***Diego Fajardo***
+- [x] Update tasks list and code some more  --  ***Diego Fajardo***
